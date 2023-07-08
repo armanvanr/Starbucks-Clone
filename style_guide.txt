@@ -1,0 +1,29 @@
+button
+    fontsize 16px/1.6rem
+    
+
+1. navbar
+menu
+    fontweight 700
+    fontsize 14px/1.4rem
+user
+    fontweight 600
+    fontsize 14px
+
+
+2. main
+main:nth-child(1,3,4)
+    flex-direction row
+main:nth-child(2,5)
+    flex-direction row-reverse
+.section 1
+h1
+    fontweight 600
+    fontsize 50px
+p
+    fontweight 400
+    fontsize 24px
+
+.section 2
+
+

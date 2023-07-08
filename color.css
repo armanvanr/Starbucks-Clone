@@ -1,0 +1,9 @@
+:root {
+    --colorBlack: rgb(0, 0, 0);
+    --colorBlack70: rgb(76, 76, 76);
+    --colorWhite: rgb(255, 255, 255);
+    --colorWhite70: rgb(229, 229, 229);
+    --colorGreen: rgb(0, 98, 65);
+    --colorPink: rgb(235, 129, 165);
+    --colorPink70: rgb(214, 122, 153);
+}
