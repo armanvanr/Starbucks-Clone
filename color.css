@@ -4,14 +4,16 @@
     --colorWhite: rgb(255, 255, 255);
     --colorWhite70: rgb(229, 229, 229);
     --colorGreen: rgb(0, 98, 65);
+    --colorDarkCyan: rgb(30, 57, 50);
+
     --colorPink: rgb(235, 129, 165);
     --colorPink70: rgb(214, 122, 153);
-    --colorTosca: rgb(212,233,226);
-    --colorTosca70: rgb(193,215,208);
-    --colorSeljuk: rgb(143,139,244);
-    --colorSeljuk70: rgb(128,125,219);
-    --colorGarden: rgb(203,230,120);
-    --colorGardern70: rgb(185,213,113);
-    --colorCloudless: rgb(225,252,205);
-    --colorCloudless70: rgb(205,232,189);
+    --colorTosca: rgb(212, 233, 226);
+    --colorTosca70: rgb(193, 215, 208);
+    --colorSeljuk: rgb(143, 139, 244);
+    --colorSeljuk70: rgb(128, 125, 219);
+    --colorGarden: rgb(203, 230, 120);
+    --colorGarden70: rgb(185, 213, 113);
+    --colorCloudless: rgb(225, 252, 205);
+    --colorCloudless70: rgb(205, 232, 189);
 }
