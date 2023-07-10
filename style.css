@@ -43,6 +43,8 @@ ul {
 #sb-logo {
     width: 49px;
     height: 49px;
+    background-image: url("/images/starbucks.svg");
+    background-size: cover;
 }
 
 #navbar-items {
@@ -388,6 +390,10 @@ footer {
 
 #privacy li:first-child {
     padding: 0 16px 0 0;
+}
+
+#privacy a:hover{
+    text-decoration: underline;
 }
 
 #copyright {
