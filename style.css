@@ -344,6 +344,10 @@ footer {
     color: var(--colorBlack);
 }
 
+hr {
+    border: 1px solid var(--colorWhite70);
+}
+
 /* social media */
 #social-media {
     display: flex;
@@ -392,7 +396,7 @@ footer {
     padding: 0 16px 0 0;
 }
 
-#privacy a:hover{
+#privacy a:hover {
     text-decoration: underline;
 }
 
@@ -400,4 +404,32 @@ footer {
     padding: 16px 0;
     margin-top: 4px;
     color: var(--colorBlack70);
+}
+
+#back-top {
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+    width: 48px;
+    height: 48px;
+    border-radius: 14px;
+    background-color: var(--colorSeljuk);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+#back-top a {
+    font-size: 20px;
+}
+
+#back-top:active {
+    transform: scale(0.9);
+    transition: all 0.2s ease;
+}
+
+.button:active {
+    transform: scale(0.95);
+    transition: all 0.2s ease;
 }
